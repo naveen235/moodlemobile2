@@ -1,8 +1,8 @@
-<?xml version="3.1" encoding="UTF-8" standalone="yes"?>
-<widget id="org.mappingminds.intranet" version="3.1.3" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0"/>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<widget id="org.mappingminds.intranet" version="3.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0"/>
   <name>mminds2016</name>
   <description>Official Mappingminds Mobile app</description>
-  <author href="http://" email="contact@mappingminds.org">Mapping Minds</author>
+  <author href="http://intranet.mappingminds.org/" email="contact@mappingminds.org">Mapping Minds</author>
   <content src="index.html"/>
   <access origin="*"/>
 
